@@ -1,4 +1,6 @@
-# most-used-words
+# Most-Used-Words
+
+Projeto feito com orientação de professor.
 
 ## Project setup
 ```
